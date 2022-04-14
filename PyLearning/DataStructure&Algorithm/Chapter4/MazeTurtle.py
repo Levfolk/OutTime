@@ -1,29 +1,30 @@
 #乌龟走迷宫问题
+from turtle import *
 
 #Code_4.10 迷宫搜索函数
-def searchFrom(maze, startRow, startColumn):
-    maze.updatePosition(startRow, startColumn)
-    #检查基本情况
-    #1.遇到墙
-    if maze[startRow][startColumn] == OBSTACLE:
-        return False
-    #2.遇到已经走过的格子
-    if maze[startRow][startColumn] == TRIED:
-        return False
-    #3.找到出口
-    if maze.isExit(startRow, startColumn):
-        maze.updatePosition(startRow, startColumn, PART_OF_PATH)
-        return True
-    maze.updatePosition(startRow, startColumn, TRIED)
+    def searchFrom(maze, startRow, startColumn):
+        maze.updatePosition(startRow, startColumn)
+        #检查基本情况
+        #1.遇到墙
+        if maze[startRow][startColumn] == OBSTACLE:
+            return False
+        #2.遇到已经走过的格子
+        if maze[startRow][startColumn] == TRIED:
+            return False
+        #3.找到出口
+        if maze.isExit(startRow, startColumn):
+            maze.updatePosition(startRow, startColumn, PART_OF_PATH)
+            return True
+        maze.updatePosition(startRow, startColumn, TRIED)
 
-    #否则，依次尝试向4哥方向移动
-    found = searchFrom(maze, startRow - 1, startColumn) or searchFrom(maze, startRow + 1, startColumn) or \
-            searchFrom(maze, startRow, startColumn - 1) or searchFrom(maze, startRow, startColumn + 1)
-    if found:
-        maze.updatePosition(startRow, startColumn, PART_OF_PATH)
-    else:
-        maze.updatePosition(startRow, startColumn, DEAD_END)
-    return found
+        #否则，依次尝试向4哥方向移动
+        found = searchFrom(maze, startRow - 1, startColumn) or searchFrom(maze, startRow + 1, startColumn) or \
+                searchFrom(maze, startRow, startColumn - 1) or searchFrom(maze, startRow, startColumn + 1)
+        if found:
+            maze.updatePosition(startRow, startColumn, PART_OF_PATH)
+        else:
+            maze.updatePosition(startRow, startColumn, DEAD_END)
+        return found
 
 #Code_4.11 Maze类 init方法
 class Maze:
@@ -58,7 +59,7 @@ class Maze:
 #Code_4.12 Maze类 drawMaze方法
     def drawMaze(self):
         for y in range(self.rowsInMaze):
-            for x in range(self.columnsInMzae):
+            for x in range(self.columnsInMaze):
                 if self.mazelist[y][x] == OBSTACLE:
                     self.drawCenteredBox(x + self.xTranslate, -y + self.yTranslate, 'tan')
         self.t.color('black', 'blue')
