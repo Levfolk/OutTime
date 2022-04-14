@@ -1,11 +1,10 @@
 from turtle import *
-import tkinter
 
 myTurtle = Turtle()
 myWin = myTurtle.getscreen()
 
 def drawSpiral(myTurtle, lineLen):
-    if len > 0:
+    if lineLen > 0:
         myTurtle.forward(lineLen)
         myTurtle.right(90)
         drawSpiral(myTurtle, lineLen-5)
