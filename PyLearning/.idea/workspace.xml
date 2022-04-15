@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98775d72-144f-44b3-8df2-997eac03b030" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Deque/Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Deque/Deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Deque/palchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Deque/palchecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Node/Node.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Node/Node.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/OrderedList/OrderedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/OrderedList/OrderedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Queue/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Queue/Queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Queue/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Queue/Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Queue/hotPotato.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Queue/hotPotato.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Queue/printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Queue/printer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Queue/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Queue/simulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/ParChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/ParChecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/baseConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/baseConverter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/divideBy2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/divideBy2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/infixToPostfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/infixToPostfix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Stack/postfixEval.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/Stack/postfixEval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/UnorderedList/UnorderedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3/UnorderedList/UnorderedList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +30,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.minCoins">
     <configuration name="Code_4.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -192,7 +181,7 @@
       <updated>1644418216064</updated>
       <workItem from="1644418218710" duration="24000" />
       <workItem from="1646101681077" duration="7980000" />
-      <workItem from="1649832200112" duration="12618000" />
+      <workItem from="1649832200112" duration="12831000" />
     </task>
     <servers />
   </component>
