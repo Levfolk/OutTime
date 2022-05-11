@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98775d72-144f-44b3-8df2-997eac03b030" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PyLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -38,7 +40,7 @@
       <recent name="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mergeSort">
+  <component name="RunManager" selected="Python.Code_4.7">
     <configuration name="Code_4.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,10 +153,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Code_4.7" />
         <item itemvalue="Python.mergeSort" />
         <item itemvalue="Python.minCoins" />
         <item itemvalue="Python.MazeTurtle" />
-        <item itemvalue="Python.Code_4.7" />
         <item itemvalue="Python.Code_4.5" />
       </list>
     </recent_temporary>
@@ -184,6 +186,9 @@
       <workItem from="1644418218710" duration="24000" />
       <workItem from="1646101681077" duration="7980000" />
       <workItem from="1649832200112" duration="27854000" />
+      <workItem from="1652088421462" duration="2784000" />
+      <workItem from="1652112126584" duration="5509000" />
+      <workItem from="1652232812973" duration="2829000" />
     </task>
     <servers />
   </component>
@@ -202,42 +207,54 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="289" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1649832754215" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1650696431489">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1652232312428">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1650696431489" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1650696431489">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1652232312428">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1650696431489" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1650696431488">
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1652232312427">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1650696431488" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1650696431489">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652232312427" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1652232312428">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1650696431489" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1650696431491">
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1652232312429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1650696431491" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1650696431490">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1652164247319" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1652232312429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1650696431490" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1650696431490">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1652164247318" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1652232312429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1650696431490" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1650696431491">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1652164247317" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1652232312429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1650696431491" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1652164247319" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1652113759230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1652113759230" />
     <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1649920959522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1649920959522" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1652113390070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1652113390070" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyLearning$MazeTurtle.coverage" NAME="MazeTurtle Coverage Results" MODIFIED="1649905824405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
@@ -245,6 +262,6 @@
     <SUITE FILE_PATH="coverage/PyLearning$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1650521271172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter5/Sort_Algorithnm" />
     <SUITE FILE_PATH="coverage/PyLearning$Code_4_5.coverage" NAME="Code_4.5 Coverage Results" MODIFIED="1649901955909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$minCoins.coverage" NAME="minCoins Coverage Results" MODIFIED="1649922148387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
-    <SUITE FILE_PATH="coverage/PyLearning$Code_4_7.coverage" NAME="Code_4.7 Coverage Results" MODIFIED="1649901996544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
+    <SUITE FILE_PATH="coverage/PyLearning$Code_4_7.coverage" NAME="Code_4.7 Coverage Results" MODIFIED="1652164243435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
   </component>
 </project>
