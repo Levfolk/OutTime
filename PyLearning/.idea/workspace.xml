@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98775d72-144f-44b3-8df2-997eac03b030" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PyLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/offer/11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,8 @@
       <recent name="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Code_4.7">
-    <configuration name="Code_4.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_2">
+    <configuration name="10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,12 +49,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4/Code_4.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/10_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/10_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,28 +99,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4/Code_4.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MazeTurtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4/MazeTurtle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_2" />
+        <item itemvalue="Python.10_1" />
         <item itemvalue="Python.Code_4.7" />
         <item itemvalue="Python.mergeSort" />
         <item itemvalue="Python.minCoins" />
-        <item itemvalue="Python.MazeTurtle" />
-        <item itemvalue="Python.Code_4.5" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,7 @@
       <workItem from="1649832200112" duration="27854000" />
       <workItem from="1652088421462" duration="2784000" />
       <workItem from="1652112126584" duration="5509000" />
-      <workItem from="1652232812973" duration="2829000" />
+      <workItem from="1652232812973" duration="7752000" />
     </task>
     <servers />
   </component>
@@ -207,22 +207,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="289" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1649832754215" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1652232312428">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1652263184186">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1652232312428">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652263184186" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1652263184185">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1652232312427">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652263184185" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1652263184184">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652232312427" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1652232312428">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652263184184" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1652263184185">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652232312428" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652263184185" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1652232312429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -260,8 +260,10 @@
     <SUITE FILE_PATH="coverage/PyLearning$MazeTurtle.coverage" NAME="MazeTurtle Coverage Results" MODIFIED="1649905824405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1646299342859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PyLearning$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1650521271172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter5/Sort_Algorithnm" />
+    <SUITE FILE_PATH="coverage/PyLearning$10_2.coverage" NAME="10_2 Coverage Results" MODIFIED="1652262585639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offer" />
     <SUITE FILE_PATH="coverage/PyLearning$Code_4_5.coverage" NAME="Code_4.5 Coverage Results" MODIFIED="1649901955909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$minCoins.coverage" NAME="minCoins Coverage Results" MODIFIED="1649922148387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$Code_4_7.coverage" NAME="Code_4.7 Coverage Results" MODIFIED="1652164243435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
+    <SUITE FILE_PATH="coverage/PyLearning$10.coverage" NAME="10 Coverage Results" MODIFIED="1652261145754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offer" />
   </component>
 </project>
