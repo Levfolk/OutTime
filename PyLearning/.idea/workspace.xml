@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="98775d72-144f-44b3-8df2-997eac03b030" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/offer/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter6/BinarySearchTree/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter6/BinarySearchTree/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter6/BinarySearchTree/TreeNode.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <recent name="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10_2">
+  <component name="RunManager" selected="Python.12">
     <configuration name="10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/10_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,35 +152,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minCoins" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4/minCoins.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12" />
         <item itemvalue="Python.10_2" />
         <item itemvalue="Python.10_1" />
         <item itemvalue="Python.Code_4.7" />
         <item itemvalue="Python.mergeSort" />
-        <item itemvalue="Python.minCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +189,9 @@
       <workItem from="1649832200112" duration="27854000" />
       <workItem from="1652088421462" duration="2784000" />
       <workItem from="1652112126584" duration="5509000" />
-      <workItem from="1652232812973" duration="7752000" />
+      <workItem from="1652232812973" duration="7766000" />
+      <workItem from="1652280826174" duration="1640000" />
+      <workItem from="1652318409628" duration="14321000" />
     </task>
     <servers />
   </component>
@@ -207,41 +210,41 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="289" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1649832754215" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1652263184186">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652263184186" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1652263184185">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652263184185" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1652263184184">
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1652284570879">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652263184184" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1652263184185">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652284570879" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652263184185" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1652232312429">
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1652284570881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652284570881" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1652164247319" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1652232312429">
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1652164247318" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1652232312429">
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1652164247317" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1652232312429">
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1652284570880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1652232312429" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1652284570880" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1652164247319" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1652113759230">
       <screen x="0" y="0" width="1440" height="900" />
@@ -264,6 +267,7 @@
     <SUITE FILE_PATH="coverage/PyLearning$Code_4_5.coverage" NAME="Code_4.5 Coverage Results" MODIFIED="1649901955909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$minCoins.coverage" NAME="minCoins Coverage Results" MODIFIED="1649922148387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
     <SUITE FILE_PATH="coverage/PyLearning$Code_4_7.coverage" NAME="Code_4.7 Coverage Results" MODIFIED="1652164243435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure&amp;Algorithm/Chapter4" />
+    <SUITE FILE_PATH="coverage/PyLearning$12.coverage" NAME="12 Coverage Results" MODIFIED="1652284230401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offer" />
     <SUITE FILE_PATH="coverage/PyLearning$10.coverage" NAME="10 Coverage Results" MODIFIED="1652261145754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offer" />
   </component>
 </project>
