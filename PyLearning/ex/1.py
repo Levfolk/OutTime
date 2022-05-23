@@ -1,9 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
         """
-        :type nums: List[int]
+        :type nums: UnorderedList[int]
         :type target: int
-        :rtype: List[int]
+        :rtype: UnorderedList[int]
         """
         a={}
         for i, j in enumerate(nums):

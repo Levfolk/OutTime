@@ -1,3 +1,4 @@
+#旋转数组的最小数字
 class Solution:
     def minArray(self, numbers: List[int]) -> int:
         left, right = 0, len(numbers) - 1
